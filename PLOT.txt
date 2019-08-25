@@ -2,4 +2,4 @@ It was a boring Sunday. Alan decided to go out to get some fresh air
 then all of a sudden he gets a phone call from an unknown number...
 
 With immense hesitation and reluctance, Alan finally accepted the call.
-A voice from the other side asked, "Why don't you accept my Pull Request!"
+A voice from the other side asked, "Why don't you accept my Pull Request?!"
