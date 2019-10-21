@@ -1,5 +1,6 @@
 It was a boring sunday.Alan decided to go out to get some fresh air 
 then all of a sudden he gets a phone call from an unknown number...
+
 Alan decided to lift up the call. "Hello?". He heard no response. "Hello?....Hello?".
 Then all of a sudden he heard strange noises, it sounded like an interrogation. "Tell me where it is, or else...",
 "Please- please dont kill me....i dont know, i honestly dont know....i got a family...plea-".
@@ -67,3 +68,8 @@ which proved that it was a murder due to a drug business gone wrong.
 The FBI went to the rich guy's place to arrest him and justice was served accordingly.
 "By the way how did you know my name ?", I asked Sarah in wonder ,"I heard your friend call you by that name when i reached the place,
 it did not require much of skills to hear two people speaking" she said laughing.
+=======
+
+With immense hesitation and reluctance, Alan finally accepted the call.
+A voice from the other side asked, "Why don't you accept my Pull Request?!"
+
